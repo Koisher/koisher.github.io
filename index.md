@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class: CSCI 419 Database Management** 
 -   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Paper 3 Title](/pdf/CSCI 301 paper Rhett Cook.pdf)
 
 -   **Class: CSCI 301 Survey of Scripting Languages** 
 -   **Grade: A**
