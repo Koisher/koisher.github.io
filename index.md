@@ -36,9 +36,9 @@ Ethics Papers
 -   **Class:CSCI 325 Object Oriented Programming**  
 -   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Regarding the Database](/pdf/Ethics paper CSCI419 Rhett Cook.pdf)
 
--   **Class:** 
+-   **Class:CSCI 419 Database Management** 
 -   **Grade: A**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
