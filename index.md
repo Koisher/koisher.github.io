@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Scammers and Internet Ethics](/pdf/CSCI_325_ethics_paper_Rhett_Cook.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:CSCI 325 Object Oriented Programming**  
+-   **Grade: A**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
 -   **Class:** 
--   **Grade:**
+-   **Grade: A**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
 -   **Class:** 
--   **Grade:**
+-   **Grade: A**
 
 ---
 
@@ -54,13 +54,13 @@ Presentations
 ### [Presentation 1 Title](/pdf/sample_presentation.pdf)
 
 - **Class:** 
-- **Grade:**
+- **Grade: A**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
 
 - **Class:** 
-- **Grade:**
+- **Grade: A**
 
 ---
 
