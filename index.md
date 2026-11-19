@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class: CSCI 419 Database Management** 
 -   **Grade: A**
 
-### [Paper 3 Title](/pdf/CSCI 301 paper Rhett Cook.pdf)
+### [Coding Copyright and Ethics](/pdf/CSCI 301 paper Rhett Cook.pdf)
 
 -   **Class: CSCI 301 Survey of Scripting Languages** 
 -   **Grade: A**
@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [ALU in the Single Cycle Processor](/pdf/Untitled presentation.pdf)
 
-- **Class:** 
+- **Class: CSCI 330 Computer Architecture** 
 - **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [An Investigation of the Target Hack](/pdf/An Investigation of the Target Hack.pdf)
 
-- **Class:** 
-- **Grade: A**
+- **Class: CSCI 409 Principles of Cybersecurity** 
+- **Grade: Not Graded**
 
 ---
 
