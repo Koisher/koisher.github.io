@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Scammers and Internet Ethics](/pdf/CSCI_325_ethics_paper_Rhett_Cook.pdf)
+### [Scammers and Internet Ethics](/pdf/CSCI 325 ethics paper Rhett Cook.pdf)
 
 -   **Class:CSCI 325 Object Oriented Programming**  
 -   **Grade: A**
