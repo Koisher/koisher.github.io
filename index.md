@@ -33,17 +33,17 @@ Ethics Papers
 
 ### [Scammers and Internet Ethics](/pdf/CSCI 325 ethics paper Rhett Cook.pdf)
 
--   **Class:CSCI 325 Object Oriented Programming**  
+-   **Class: CSCI 325 Object Oriented Programming**  
 -   **Grade: A**
 
 ### [Regarding the Database](/pdf/Ethics paper CSCI419 Rhett Cook.pdf)
 
--   **Class:CSCI 419 Database Management** 
+-   **Class: CSCI 419 Database Management** 
 -   **Grade: A**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
--   **Class:** 
+-   **Class: CSCI 301 Survey of Scripting Languages** 
 -   **Grade: A**
 
 ---
