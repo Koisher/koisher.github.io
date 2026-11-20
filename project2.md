@@ -6,12 +6,12 @@ Project 1 Title
 -   **Class: CSCI 332** 
 -   **Grade: A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [Koisher/Buddy-Chat](https://github.com/Koisher/Buddy-Chat.git)  
+    (Please [email me](mailto:ARCook@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-A simple chat app that allows the user to chat with another person using the program.
+A simple chat app created as a group project that allows the user to chat with another person who is using the program.
 
 ## How to compile and run the program
 
@@ -31,13 +31,13 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/chat1.jpg)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/chat2.jpg)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/chat3.jpg)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
