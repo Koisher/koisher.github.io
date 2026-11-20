@@ -32,9 +32,9 @@ Afterwards you are prompted to send a message to your buddy (Fig 2). Once you re
 Fig 1. Prompt after launching the program.
 
 ![screenshot](images/chat2.png)  
-Fig 2. Example output after input is processed.
+Fig 2. Prompt asking for a message for your buddy.
 
 ![screenshot](images/chat3.png)  
-Fig 3. Result of input on client 2.
+Fig 3. Result of message received on client 2.
 
 [Back to Portfolio](./)
