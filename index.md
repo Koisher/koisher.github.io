@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Buddy Chat| CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/chat.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Project 3 Title | CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4 Title | CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -60,7 +60,7 @@ Presentations
 ### [An Investigation of the Target Hack](/pdf/An Investigation of the Target Hack.pdf)
 
 - **Class: CSCI 409 Principles of Cybersecurity** 
-- **Grade: Not Graded**
+- **Grade: Not Yet Graded**
 
 ---
 
