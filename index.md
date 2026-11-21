@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Buddy Chat| CSCI 315](project2)
+### [Buddy Chat| CSCI 332](project2)
 
 ![Project 2 Thumbnail Name](images/chat.jpg)
 
@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [Project 4 Title | CSCI 325](project4)
 
 ![Project 4 Thumbnail Name](images/convert1.png)
 
