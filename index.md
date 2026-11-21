@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Project 1 Title | CSCI ](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -17,12 +17,12 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/chat.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project3)
+### [Project 3 Title | CSCI ](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 325](project4)
+### [Celcius Converter | CSCI 325](project4)
 
 ![Project 4 Thumbnail Name](images/convert1.png)
 
