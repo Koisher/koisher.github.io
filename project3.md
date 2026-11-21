@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Webscraper
 ===============
 
 -   **Class: CSCI 301** 
@@ -11,7 +11,7 @@ Project 1 Title
 
 ## Project description
 
-A basic python webscraper created as a final project for survey of scripting languages. The program obtains information from https://pythonjobs.github.io/ and displays it in a convineint format for the user.
+A basic python webscraper created as a final project for survey of scripting languages. The program obtains information from https://pythonjobs.github.io/ and displays it in a convenient format for the user (Fig 2).
 
 ## How to run the program
 

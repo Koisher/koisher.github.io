@@ -12,12 +12,12 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Buddy Chat| CSCI 332](project2)
+### [Buddy Chat | CSCI 332](project2)
 
 ![Project 2 Thumbnail Name](images/chat.jpg)
 
 ---
-### [Project 3 Title | CSCI 301](project3)
+### [Webscraper | CSCI 301](project3)
 
 ![Project 3 Thumbnail Name](images/webscraper.png)
 
