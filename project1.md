@@ -15,8 +15,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
 ```bash
 cd ./project
 python setup.py

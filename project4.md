@@ -15,8 +15,6 @@ This program provides a simple UI that allows the user to input any tempurature 
 
 ## How to run the program
 
-How to run the project.
-
 ```bash
 cd ./CelciusConverterProject
 java -cp out learn.CelsiusConverterGUI

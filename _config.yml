@@ -6,9 +6,9 @@ description: > # your text below (remove <br /> elements if you don't need line 
   CSCI 496: Senior Portfolio<br />
   In partial fulfillment of the requirements for the degree of
   Bachelor of Science in Computer-Science: Business Concentration (class of 2027)
-  <br />
-  <a href="https://app.joinhandshake.com/profiles/fe68z3">View My Resume</a>
   <br /><br />
+  <a href="https://app.joinhandshake.com/profiles/fe68z3">View My Resume</a>
+  <br />
 repository: "csci-csu/csci-portfolio"
 github_username:  username # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

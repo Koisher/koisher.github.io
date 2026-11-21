@@ -15,8 +15,6 @@ A simple chat app created as a group project that allows the user to chat with a
 
 ## How to compile and run the program
 
-How to compile and run the project.
-
 ```bash
 cd ./buddychat
 g++ -pthread -o buddychat buddychat.cpp
