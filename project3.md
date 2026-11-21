@@ -24,9 +24,9 @@ python WebscrapingFinal.py
 When the program is run it immediately displays the information from the page.
 
 ![screenshot](images/webscraper1.png)  
-Fig 1. Example [webpage] that information is being scraped from. (https://pythonjobs.github.io/)
+Fig 1. Example [webpage](https://pythonjobs.github.io/) that information is being scraped from.
 
-![screenshot](images/webscraper2.jpg)  
+![screenshot](images/webscraper2.png)  
 Fig 2. Results when the program is run.
 
 [Back to Portfolio](./)

@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Project 3 Title | CSCI 301](project3)
 
-![Project 3 Thumbnail Name](images/webscraper.jpg)
+![Project 3 Thumbnail Name](images/webscraper.png)
 
 ---
 ### [Celcius Converter | CSCI 325](project4)
