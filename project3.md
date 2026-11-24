@@ -11,7 +11,7 @@ Webscraper
 
 ## Project description
 
-A basic python webscraper created as a final project for survey of scripting languages. The program obtains information from https://pythonjobs.github.io/ and displays it in a convenient format for the user (Fig 2).
+A basic python webscraper created as a final project for survey of scripting languages. The program obtains information from https://pythonjobs.github.io/ and displays it in a convenient format for the user.
 
 ## How to run the program
 
@@ -21,7 +21,7 @@ python WebscrapingFinal.py
 
 ## UI Design
 
-When the program is run it immediately displays the information from the page.
+When the program is run it immediately displays the information from the page (Fig 2).
 
 ![screenshot](images/webscraper1.png)  
 Fig 1. Example [webpage](https://pythonjobs.github.io/) that information is being scraped from.
