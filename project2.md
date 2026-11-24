@@ -11,7 +11,7 @@ Buddy Chat
 
 ## Project description
 
-A simple chat app created as a group project that allows the user to chat with another person who is using the program.
+A simple chat app created as a group project that allows the user to chat with another person who is using the program on a separate device.
 
 ## How to compile and run the program
 
